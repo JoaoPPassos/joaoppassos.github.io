@@ -1,9 +1,29 @@
 .sideBar {
-    background-color: red;
+    background-color: #800B0F;
+    height: 20px;
+    padding: 2%;
+}
+.title {
+    font-style: italic;
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;   
+}
+
+.first {
+    background-color: #FF171F;
 }
 
 .sideBar a {
-    color: #818181;
-    padding: 10px 10px 10px 5px;
-    position: relative;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    padding-top: 10px;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-bottom: 10px;
+    align-self: center;
+    font-style: oblique;
+    margin: 5px
 }
