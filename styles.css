@@ -1,0 +1,9 @@
+.sideBar {
+    background-color: red;
+}
+
+.sideBar a {
+    color: #818181;
+    padding: 10px 10px 10px 5px;
+    position: relative;
+}
