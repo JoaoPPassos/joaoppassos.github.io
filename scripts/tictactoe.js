@@ -1,5 +1,5 @@
 var criarMapaTTT = function() {
-    var canvas = document.getElementById("gameField");
+    var canvas = document.getElementById("tttField");
     var ctx = canvas.getContext('2d');
 
     ctx.beginPath();
