@@ -17,4 +17,7 @@ var criarMapaTTT = function() {
     ctx.lineTo(canvas.clientWidth - 10, (2 * canvas.clientHeight) / 3);
 
     ctx.stroke();
+    coordenadas();
+
+    var montandoCampo = function() {}
 }
